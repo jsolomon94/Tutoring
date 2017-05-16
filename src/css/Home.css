@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+.Homestyle{
+
+  height: 100%;
+  width: 100%;
+
+}
+
+.Homestyle nav{
+
+  height: 7vh;
+  padding: 0;
+  margin: 0;
+  align-content: center;
+	background-color:transparent !important;
+	border-color:transparent;
+	background-image:none;
+	box-shadow:none;
+  font-family: 'Raleway', sans-serif;
+  font-size: 130%;
+
+}
+
+.Homestyle nav li{
+
+  color: #000;
+  padding-left: 80px;
+
+}
+
+.Homestyle.mainStuff {
+
+  min-height: 90%;
+  padding: 0px;
+  margin: 0px;
+
+}
+
+a.active {
+
+    color: #00534A !important;
+
+}
+
+.container-fluid{
+
+padding: 0 ! important;
+margin: 0 ! important;
+
+}
+
+.footer {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: white;
+  
+}

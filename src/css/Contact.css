@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great');
+
+.contact{
+
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  display: table;
+  background-image: url('../images/chair.jpg');
+  background-size: cover;
+
+}
+
+.contact-body{
+    
+    height: 100vh;
+    float: top;
+    display: table-cell;
+    vertical-align: middle;
+    font-family: 'Fredericka the Great', cursive; 
+    color: white;
+
+}

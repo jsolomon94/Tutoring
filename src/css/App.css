@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+.overall{
+
+  height: inherit;
+  width: 100%;
+
+}
+
+.Main{
+
+height:inherit;
+width: 100%;
+text-align: center;
+background-color: black;
+font-family: 'Raleway', sans-serif;
+color: white;
+
+}
+
+
+.Main-div{
+
+  display: table;
+  height: 100vh;
+  width: 100%;
+  margin: 0px;
+  background-image: url('../images/giphy.gif');
+  background-size: 100% 100%;
+
+
+}
+
+.Main-div-child{
+
+  display: table-cell;
+  vertical-align: middle;
+
+
+}
+
+p{
+
+  font-size: 160%;
+
+}
+
+h1{
+
+  font-size: 600%;
+
+}
+
+.btn.btn-lg{
+
+  background: none;
+  border: 2px solid white;
+
+}
+
+Link{
+
+  text-decoration:none;
+
+}
